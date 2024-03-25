@@ -39,7 +39,7 @@ export class ExperiencesComponent {
     },
     {
       summary: {
-        date$: 'Junior Java Developer',
+        date$: 'Java Developer',
         p: 'Lorius Solution - Septemberr/2022 - Current',
       },
       text: '<p>Development of ticket management application</p>'
